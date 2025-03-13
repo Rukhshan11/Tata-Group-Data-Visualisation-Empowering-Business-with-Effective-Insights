@@ -4,8 +4,6 @@
 
 
 ## Data cleanup 
-Before you can begin the analysis, make sure that the data is cleaned properly. You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. You will need to perform the following steps to clean this data.
-
 Create a check that the quantity should not be below 1 unit
 Create a check that the Unit price should not be below $0
 Please note that in order to apply the checks that have been mentioned above, you would need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from analysis. You can also use data transformation methods to get rid of the bad data. Both these methods are provided in the resources. Once this is done, the data will be good to be used for further analysis. Please note that this data should be cleaned up before attempting any question.
